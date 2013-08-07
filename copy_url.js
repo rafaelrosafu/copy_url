@@ -39,6 +39,7 @@
         [ "mashable.com"                    , { twit: "@mashable"       , source: "Mashable" } ],
         [ "www.nczonline.net"               , { twit: "@slicknet"       , source: "NCZ Online" } ],
         [ /^.*nytimes.com$/                 , { twit: "@nytimes"        , source: "NY Times" } ],
+        [ "pandodaily.com"                  , { twit: "@PandoDaily"     , source: "PandoDaily" } ],
         [ "ovh.com"                         , { twit: "@ovh"            , source: "OVH" } ],
         [ "rackspace.com"                   , { twit: "@rackspace"      , source: "Rackspace" } ],
         [ "www.remotesynthesis.com"         , { twit: "@remotesynth"    , source: "Remote Synthesis" } ],
