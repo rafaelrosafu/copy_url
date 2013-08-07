@@ -12,6 +12,7 @@
             }
           }
         ],
+        [ "451research.com"                 , { twit: "@451Research"    , source: "451 Research" } ],
         [ "addyosmani.com"                  , { twit: "@addyosmani"     , source: "addyosmani" } ],
         [ "angel.co"                        , { twit: "@angellist"      , source: "AngelList" } ],
         [ "www.allthingsdistributed.com"    , { twit: "@werner"         , source: "Werner Voguel's Blog" } ],
@@ -45,6 +46,7 @@
         [ "www.remotesynthesis.com"         , { twit: "@remotesynth"    , source: "Remote Synthesis" } ],
         [ /^.*smashingmagazine.com$/        , { twit: "@smashingmag"    , source: "Smashing Magazine" } ],
         [ "spinoff.comicbookresources.com"  , { twit: "@SpinoffOnline"  , source: "Spinoff Online" } ],
+        [ "structureresearch.net"           , { twit: "@StructureRes"   , source: "Structure Research" } ],
         [ "tagneto.blogspot.ca"             , { twit: "@jrburke"        , source: "Tagneto's Blog" } ],
         [ "techcrunch.com"                  , { twit: "@techcrunch"     , source: "Techcrunch" } ],
         [ "thenextweb.com"                  , { twit: "@TheNextWeb"     , source: "The Next Web" } ],
@@ -60,7 +62,7 @@
     var sel = (window.getSelection ? String(window.getSelection()) : "");
 
     data.title = document.title.replace(/(\s*[—•|].*)$/g,'');
-    data.href = document.location.href.replace(/(\?.*)$/g,'');
+    data.href = document.location.href;
     
     var hostDesc;
     hostEntries.some(function(hostEntry) {
