@@ -51,7 +51,7 @@
         [ "techcrunch.com"                  , { twit: "@techcrunch"     , source: "Techcrunch" } ],
         [ "thenextweb.com"                  , { twit: "@TheNextWeb"     , source: "The Next Web" } ],
         [ "www.theregister.co.uk"           , { twit: "@theregister"    , source: "The Register" } ],
-        [ "thewhir.com"                     , { twit: "@thewhir"        , source: "The WHIR" } ],
+        [ "www.thewhir.com"                 , { twit: "@thewhir"        , source: "The WHIR" } ],
         [ "www.theverge.com"                , { twit: "@verge"          , source: "The Verge" } ],
         [ "unscriptable.com"                , { twit: "@unscriptable"   , source: "Unscriptable" } ],
     ];
