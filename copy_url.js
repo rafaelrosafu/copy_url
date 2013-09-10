@@ -42,7 +42,7 @@
         [ /^.*nytimes.com$/                 , { twit: "@nytimes"        , source: "NY Times" } ],
         [ "pandodaily.com"                  , { twit: "@PandoDaily"     , source: "PandoDaily" } ],
         [ "ovh.com"                         , { twit: "@ovh"            , source: "OVH" } ],
-        [ "rackspace.com"                   , { twit: "@rackspace"      , source: "Rackspace" } ],
+        [ "www.rackspace.com"               , { twit: "@rackspace"      , source: "Rackspace" } ],
         [ "www.remotesynthesis.com"         , { twit: "@remotesynth"    , source: "Remote Synthesis" } ],
         [ /^.*smashingmagazine.com$/        , { twit: "@smashingmag"    , source: "Smashing Magazine" } ],
         [ "spinoff.comicbookresources.com"  , { twit: "@SpinoffOnline"  , source: "Spinoff Online" } ],
