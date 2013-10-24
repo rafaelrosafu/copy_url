@@ -27,6 +27,7 @@
         [ "www.crunchbase.com"              , { twit: "@techcrunch"     , source: "Crunchbase" } ],
         [ "dailyjs.com"                     , { twit: "@dailyjs"        , source: "Daily JS" } ],
         [ "daringfireball.net"              , { twit: "@daringfireball" , source: "Daring Fireball" } ],
+        [ "www.datacenterknowledge.com"     , { twit: "@datacenter"     , source: "Data Center Knowledge" } ],
         [ "developer.palm.com"              , { twit: "@hpnews"         , source: "Palm" } ],
         [ "developers.google.com"           , { twit: "@googledevs"     , source: "Google Developers" } ],
         [ "www.digitalocean.com"            , { twit: "@digitalocean"   , source: "DigitalOcean" } ],
